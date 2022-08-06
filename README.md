@@ -1,2 +1,2 @@
-# Product-catalog-for-e-commerece-website
+# agile-final-project
 Honours Project 
